@@ -81,7 +81,7 @@ const Footer = () => {
                 <br />
                 <Box>
                   <Link href="#" color="inherit">
-                    Register
+                    Registers
                   </Link>
                 </Box>
                 <br />
